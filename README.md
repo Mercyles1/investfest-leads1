@@ -15,7 +15,7 @@
 </head>
 <body>
   <h2>Invest Fest AI Business Card</h2>
-  <form method="POST" action="https://YOUR-N8N-DOMAIN/webhook/investfest/lead">
+  <form method="POST" action="(https://smmul.app.n8n.cloud/webhook-test/investfest/lead)">
     <label for="name">First Name</label>
     <input type="text" id="name" name="name" required>
 
